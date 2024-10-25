@@ -1,0 +1,17 @@
+/* src/styles.css */
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+  }
+  
+  .results {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .results img {
+    width: 150px;
+    height: auto;
+    margin: 10px;
+  }
+  
